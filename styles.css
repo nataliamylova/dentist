@@ -130,7 +130,7 @@ li {
     height: auto;
     min-height: 350px;
     font-size: 14px;
-    flex-wrap: nowrap;
+    
 }
 .product:hover {
     background-color: rgb(205, 228, 245);
