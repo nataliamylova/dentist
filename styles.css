@@ -76,6 +76,7 @@ section {
     justify-items: center;
     width: 1200px;
     text-align: center;
+    flex:1;
 }
 
 .clinic {
