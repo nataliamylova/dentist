@@ -64,6 +64,15 @@ section {
     align-items: center;
     
 }
+.teams {
+    display: inline-block;
+    justify-items: center;
+}
+
+.products {
+    display: inline-block;
+    justify-items: center;
+}
 
 .clinic {
     font-size: 3em;
