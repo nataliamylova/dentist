@@ -67,11 +67,13 @@ section {
 .teams {
     display: inline-block;
     justify-items: center;
+    width: 400px;
 }
 
 .products {
     display: inline-block;
     justify-items: center;
+    width: 400px;
 }
 
 .clinic {
