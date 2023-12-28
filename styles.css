@@ -66,6 +66,7 @@ section {
 }
 .welcome {
     text-align: center;
+    min-width: 500px;
     flex:1;
     justify-content: center;
     flex-wrap: nowrap;
@@ -83,6 +84,10 @@ section {
     height: auto;
     min-height: 350px;
     font-size: 14px;
+    flex:1;
+    justify-content: center;
+    flex-wrap: nowrap;
+    display: inline-block;
 }
 
 .products {
