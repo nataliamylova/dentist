@@ -69,6 +69,7 @@ section {
     justify-items: center;
     width: 1200px;
     text-align: center;
+    justify-content: center;
 }
 
 .products {
@@ -77,6 +78,7 @@ section {
     width: 1200px;
     text-align: center;
     flex:1;
+    justify-content: center;
 }
 
 .clinic {
@@ -146,6 +148,8 @@ li {
     height: auto;
     min-height: 350px;
     font-size: 14px;
+    flex:1;
+    justify-content: center;
     
 }
 .product:hover {
@@ -183,6 +187,7 @@ img {
     margin-left: 20px;
     flex-wrap: nowrap;
     display: inline-block;
+    justify-content: center;
 }
 
 
