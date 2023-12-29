@@ -59,18 +59,14 @@ nav ul li {
     margin-right: 15px;
     }
 
-section {
-    margin: 20px;
-    align-items: center;
-    
-}
+
 .welcome {
-    text-align: center;
-    min-width: 500px;
+    display: inline-block;
+    text-align: left;
     flex:1;
     justify-content: center;
-    flex-wrap: nowrap;
-    display: inline-block;
+    margin-left: 30px;
+
 }
 
 .product {
@@ -91,7 +87,8 @@ section {
 }
 
 .products {
-    text-align: center;
+    text-align: left;
+    margin-left: 30px;
     flex:1;
     justify-content: center;
     flex-wrap: nowrap;
@@ -152,7 +149,7 @@ li {
     margin: 30px;
 }
 
-}
+
 .product:hover {
     background-color: rgb(205, 228, 245);
     font-size: 16px;
@@ -173,9 +170,9 @@ li {
 
 .teams {
     display: inline-block;
-    justify-items: center;
     width: 1200px;
-    text-align: center;
+    text-align: left;
+    margin-left: 30px;
     justify-content: center;
     flex:1;
     flex-wrap: nowrap;
